@@ -1,6 +1,8 @@
 # React-mobilweb-CoffeeCompany
 
  app preview link:https://priceless-knuth-c637ae.netlify.app/
+ 
+ =>If you want to review it, you should review it on the chrome mobile screen.
 
 ![sb-home](https://user-images.githubusercontent.com/73952475/131246877-4cd39d53-7997-45c1-85a7-b08d256b9295.jpg)
 ![sb-menu](https://user-images.githubusercontent.com/73952475/131246879-e7cf5088-ad5b-421c-afd0-9b7deddf326b.jpg)
